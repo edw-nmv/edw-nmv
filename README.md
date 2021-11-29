@@ -1,4 +1,10 @@
-### Hi there 👋
+<h2 align=center>Hello there 👋<br> I'm Eduard. Nice to meet you!</h2>
+
+<p center>
+👾 FullStack JS Developer<br>
+👀 Interested in WebDev and travel<br>
+📫 Contact: eduard_naumov@yahoo.com
+</p>
 
 <!--
 **edw-nmv/edw-nmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
