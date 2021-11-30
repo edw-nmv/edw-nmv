@@ -1,14 +1,14 @@
 <h2 align=center>Hello there 👋<br> I'm Eduard. Nice to meet you!</h2>
 
-<p center>
+<div>
 👨🏻‍💻 FullStack JS Developer<br>
 👾 Currently working on PERN Stack<br>
 🚀 Interested in WebDev and travel<br>
 ✉️ Contact: t.me/Heerbie
-</p>
+</div>
 
-<h2 align=center>Technologies and Tools I use 🛠️</h2>
-<div align=center>
+<h2>Technologies and Tools I use 🛠️</h2>
+<div>
   <a href='#'><img src='/img/icons8-html-5-48.png'></img></a>
   <a href='#'><img src='/img/icons8-css3-48.png'></img></a>
   <a href='#'><img src='/img/icons8-javascript-48.png'></img></a>
@@ -18,13 +18,23 @@
   <a href='#'><img src='/img/icons8-postgresql-48.png'></img></a>
   <a href='#'><img src='/img/icons8-git-48.png'></img></a>
   <a href='#'><img src='/img/icons8-github-48.png'></img></a>
+  
+  </br>
+  </br>
+  
+  <span>**Frontend:** JavaScript, React, Redux, Saga, Thunk, HTML5, CSS3, Bootstrap</span></br>
+  <span>**Backend:** NodeJS, Express, Sessions, Bcrypt, Handlebars</span></br>
+  <span>**DB:** PostgreSQL, Sequelize ORM</span></br>
+  <span>**Testing:** Jest</span></br>
+  <span>**Other:** Git, GitHub, VS Code</span></br>
 </div>
 
 
-<h2 align=center>Let's get connected 🤝</h2>
-<div align=center>
-  <a href='t.me/Heerbie'><img src='/img/telegram.png'></img></a>
-  <a href='instagram.com/udontlike_'><img src='/img/instagram.png'></img></a>
+<h2>Let's get connected 🤝</h2>
+<div>
+  <a href='t.me/Heerbie'><img src='/img/icons8-telegram-app-48.png'></img></a>
+  <a href='instagram.com/udontlike_'><img src='/img/icons8-instagram-48.png'></img></a>
+  <a href='mailto:edw.nmv@gmail.com'><img src='/img/icons8-gmail-48.png'></img></a>
 </div>
 
 <!--
