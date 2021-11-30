@@ -8,6 +8,8 @@
 </p>
 
 <h2 align=center>Technologies and Tools I use 🛠️</h2>
+<img src='/img/telegram.png'><a href='t.me/Heerbie'></a></img>
+<img src='/img/instagram.png'><a href='t.me/udontlike_'></a></img>
 
 <h2 align=center>Let's get connected 🤝</h2>
 
