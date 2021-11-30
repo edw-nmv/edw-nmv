@@ -8,10 +8,24 @@
 </p>
 
 <h2 align=center>Technologies and Tools I use 🛠️</h2>
-<img src='/img/telegram.png'><a href='t.me/Heerbie'></a></img>
-<img src='/img/instagram.png'><a href='t.me/udontlike_'></a></img>
+<div align=center>
+  <a href='#'><img src='/img/icons8-html-5-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-css3-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-javascript-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-react-native-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-redux-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-node-js-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-postgresql-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-git-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-github-48.png'></img></a>
+</div>
+
 
 <h2 align=center>Let's get connected 🤝</h2>
+<div align=center>
+  <a href='t.me/Heerbie'><img src='/img/telegram.png'></img></a>
+  <a href='instagram.com/udontlike_'><img src='/img/instagram.png'></img></a>
+</div>
 
 <!--
 **edw-nmv/edw-nmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
