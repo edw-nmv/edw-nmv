@@ -1,3 +1,5 @@
+<div align=center><img width='100' src='https://raw.githubusercontent.com/raghavk16/raghavk16/master/octo.gif'></img></div>
+
 <h2 align=center>Hello there 👋<br> I'm Eduard. Nice to meet you!</h2>
 
 <div>
