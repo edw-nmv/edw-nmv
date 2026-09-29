@@ -1,5 +1,3 @@
-# Hi, I'm Eduard 👋
-
 **React Native Developer · TypeScript · iOS & Android**
 
 I have 4.5+ years of React Native experience building a corporate B2B messenger for iOS and Android, with additional experience in React web development.
