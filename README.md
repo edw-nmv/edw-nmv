@@ -1,54 +1,38 @@
-<div align=center><img width='100' src='https://raw.githubusercontent.com/raghavk16/raghavk16/master/octo.gif'></img></div>
+# Hi, I'm Eduard 👋
 
-<h2 align=center>Hello there 👋<br> I'm Eduard. Nice to meet you!</h2>
+**React Native Developer · TypeScript · iOS & Android**
 
-<div>
-👨🏻‍💻 FullStack JS Developer<br>
-👾 Currently working on PERN Stack<br>
-🚀 Interested in WebDev and travel<br>
-✉️ Contact: t.me/Heerbie
-</div>
+I have 4.5+ years of React Native experience building a corporate B2B messenger for iOS and Android, with additional experience in React web development.
 
-<h2>Technologies and Tools I use 🛠️</h2>
-<div>
-  <a href='#'><img src='/img/icons8-html-5-48.png'></img></a>
-  <a href='#'><img src='/img/icons8-css3-48.png'></img></a>
-  <a href='#'><img src='/img/icons8-javascript-48.png'></img></a>
-  <a href='#'><img src='/img/icons8-react-native-48.png'></img></a>
-  <a href='#'><img src='/img/icons8-redux-48.png'></img></a>
-  <a href='#'><img src='/img/icons8-node-js-48.png'></img></a>
-  <a href='#'><img src='/img/icons8-postgresql-48.png'></img></a>
-  <a href='#'><img src='/img/icons8-git-48.png'></img></a>
-  <a href='#'><img src='/img/icons8-github-48.png'></img></a>
-  
-  </br>
-  </br>
-  
-  <span>**Frontend:** JavaScript, React, Redux, Saga, Thunk, HTML5, CSS3, Bootstrap</span></br>
-  <span>**Backend:** NodeJS, Express, Sessions, Bcrypt, Handlebars</span></br>
-  <span>**DB:** PostgreSQL, Sequelize ORM</span></br>
-  <span>**Other:** Git, GitHub, VS Code</span></br>
-</div>
+My work spans application architecture, real-time communication, local data, authentication, native integrations, and automated testing. I've taken ownership of features from design through implementation and helped investigate and resolve production issues.
 
+## What I've worked on
 
-<h2>Let's get connected 🤝</h2>
-<div>
-  <a href='t.me/Heerbie'><img src='/img/icons8-telegram-app-48.png'></img></a>
-  <a href='instagram.com/udontlike_'><img src='/img/icons8-instagram-48.png'></img></a>
-  <a href='mailto:edw.nmv@gmail.com'><img src='/img/icons8-gmail-48.png'></img></a>
-</div>
+- **Enterprise messaging:** WebSocket and REST integrations, local persistence, and support for multiple servers.
+- **Authentication:** OAuth 2.0 / OpenID Connect flows with PKCE and enterprise SSO integrations.
+- **Video calls:** Jitsi SDK integration, CallKit, and connecting calls with the messaging experience.
+- **Push notifications:** APNs, FCM, Huawei Push Kit, and notification processing across application states.
+- **State and data:** migration from Redux / Redux-Saga to RxJS services, with WatermelonDB and MMKV for local storage.
+- **Native integrations and stability:** working with Swift, Objective-C, Kotlin, and Java; investigating platform-specific crashes and lifecycle issues.
+- **Testing:** Jest and Detox end-to-end tests using the Page Object pattern.
 
-<!--
-**edw-nmv/edw-nmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies
 
-Here are some ideas to get you started:
+| Area | Technologies |
+| --- | --- |
+| Mobile | React Native, TypeScript, JavaScript |
+| UI and state | React, RxJS, Redux, Redux-Saga |
+| Local data | WatermelonDB, MMKV |
+| Communication | REST, WebSocket, Jitsi SDK |
+| Authentication | OAuth 2.0, OpenID Connect, PKCE |
+| Native | Swift, Objective-C, Kotlin, Java |
+| Quality and delivery | Jest, Detox, Git, GitLab CI/CD, Jenkins |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Opportunities
+
+I'm open to React Native opportunities, with remote work preferred. I'm also open to hybrid roles in Saint Petersburg.
+
+## Contact
+
+- [Telegram](https://t.me/Heerbie)
+- [Email](mailto:edw.nmv@gmail.com)
