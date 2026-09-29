@@ -35,4 +35,3 @@ I'm open to React Native opportunities, with remote work preferred. I'm also ope
 ## Contact
 
 - [Telegram](https://t.me/Heerbie)
-- [Email](mailto:edw.nmv@gmail.com)
